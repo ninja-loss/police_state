@@ -2,6 +2,5 @@
   require "police_state/#{::File.basename f, '.rb'}"
 end
 
-module PoliceState
-  # Your code goes here...
-end
+# Contains the implementation of Police State.
+module PoliceState; end
