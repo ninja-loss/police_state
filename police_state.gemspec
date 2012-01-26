@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.description = %q{TODO: Write a gem description}
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Jason Harrelson', 'Nils Jonsson']
-  s.email       = %w(ninja.loss@gmail.com)
+  s.email       = %w(jason@lookforwardenterprises.com police_state@nilsjonsson.com)
   s.homepage    = 'http://github.com/ninja-loss/police_state'
   s.license     = 'MIT'
 
